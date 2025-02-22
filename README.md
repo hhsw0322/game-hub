@@ -45,7 +45,7 @@ npm install
 # Start the development server
 npm start
 
-# Future Improvements
+## Future Improvements
 - Add scoring system
 - Include more games
 - Add multiplayer functionality
@@ -53,5 +53,5 @@ npm start
 - Add difficulty levels
 - Save ongoing game progress
 
-# Author
+## Author
 GitHub: @hhsw0322
