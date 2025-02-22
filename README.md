@@ -27,6 +27,17 @@ A collection of classic browser games built with React. Play Tic Tac Toe, Memory
 - React.js
 - CSS3
 - Lucide React (for icons)
+  
+## Future Improvements
+- Add scoring system
+- Include more games
+- Add multiplayer functionality
+- Implement user authentication
+- Add difficulty levels
+- Save ongoing game progress
+
+## Author
+GitHub: @hhsw0322
 
 ## 🚀 Getting Started
 
@@ -45,13 +56,4 @@ npm install
 # Start the development server
 npm start
 
-## Future Improvements
-- Add scoring system
-- Include more games
-- Add multiplayer functionality
-- Implement user authentication
-- Add difficulty levels
-- Save ongoing game progress
 
-## Author
-GitHub: @hhsw0322
